@@ -1,0 +1,16 @@
+Art/Backgrounds/levelOne.png*l1
+Art/Backgrounds/forest_1280.jpg*forest
+Art/space_hud.png*spacehud
+Art/rocketCursor.png*cursor
+Art/Backgrounds/Earth.jpg*Earth
+Art/Backgrounds/Menu.jpg*Menu
+Art/darkhole2.png*warp2
+Art/inventory.png*inv
+Art/acid1.png*acid1
+Art/acid2.png*acid2
+Art/acid3.png*acid3
+Art/acid4.png*acid4
+Art/ss.png*ss
+Art/z.points.png*z0
+Art/z2.points.png*z1
+Art/z3.points.png*z2
